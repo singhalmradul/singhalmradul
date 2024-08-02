@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Seasoned Full Stack Developer specializing in backend development, comprehensive skill set in designing, testing, and maintaining robust software systems. As a lifelong learner, committed to staying abreast of the latest industry trends and technologies.
+Full Stack Developer specializing in backend development, comprehensive skill set in designing, testing, and maintaining robust software systems. As a lifelong learner, committed to staying abreast of the latest industry trends and technologies.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [singhalmradul@gmail.com](mailto:singhalmradul@gmail.com)
